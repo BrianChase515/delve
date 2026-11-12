@@ -1,0 +1,8 @@
+{
+  "humans": ["Sam"],
+  "guard": "file",
+  "senders": {},
+  "not_human_prefixes": [],
+  "not_human_marks": [],
+  "send": {}
+}

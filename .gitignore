@@ -1,0 +1,10 @@
+state.json
+state.json.tmp
+delve_local.json
+human_said/
+saves/
+out/
+log.md
+__pycache__/
+*.pyc
+README_FIRST.md
